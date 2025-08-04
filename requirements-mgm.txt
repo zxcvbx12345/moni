@@ -16,7 +16,7 @@ charset-normalizer==2.1.1 ; python_full_version >= '3.6.0'
 coloredlogs==15.0.1
 contourpy==1.0.6 ; python_version >= '3.7'
 cryptography==38.0.4
-cycler==0.11.0 ; python_version >= '3.6'
+cycler==0.12.1 ; python_version >= '3.6'
 discord-webhook==1.0.0
 distro==1.8.0
 fire==0.4.0
